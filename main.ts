@@ -1,6 +1,5 @@
 let projectile: Sprite = null
 scene.setBackgroundColor(9)
-effects.bubbles.startScreenEffect()
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
